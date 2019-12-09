@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Menu_Acitivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_new_">New_Activity</string>
+</resources>
